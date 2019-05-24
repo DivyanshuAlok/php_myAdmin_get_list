@@ -1,5 +1,9 @@
 README.txt
 
+it gets the list of objects from a php page
+
+rn code :./components/Main.js
+
 ref link : https://reactnativecode.com/connect-run-apps-using-localhost/
 
 DBConfig.php file:
